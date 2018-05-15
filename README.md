@@ -1,2 +1,2 @@
-# SnS-Project
-Reading Car's Number Plate using Image Processing in MATLAB
+# Number Plate Recognition System
+In this project, we create an Automatic Number Plate Recognition System for Vehicle Identification.
